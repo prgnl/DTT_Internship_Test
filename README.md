@@ -1,2 +1,7 @@
 # DTT_Internship_Test
-DTT Internship Test - PHP
+Created by Alex F 
+
+# Instuctions
+ PHP
+ Phalcon PHP
+ MySQL
