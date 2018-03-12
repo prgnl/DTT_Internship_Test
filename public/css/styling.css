@@ -1,0 +1,119 @@
+.created {
+    color: orange;
+}
+
+body {
+    background-color: skyblue;
+}
+
+#MainDiv {
+    opacity: 1.00;
+    position: absolute;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px 10px 50px 10px;
+    width: calc(100% - 40px);
+    min-height: calc(100% - 40px);
+    margin: 20px;
+}
+
+.title {
+    color: yellow;
+    margin-left: 20px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+#adminPage {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    border-top: 2px solid #87ceeb;
+    padding: 10px;
+}
+
+#skyblue-line {
+    border-top: 2px solid skyblue;
+}
+
+#Titel {
+    color: #ee5f5b;
+    margin-left: 0.5%;
+    margin-right: 38%;
+}
+
+#textDiv {
+    margin-right: 38%;
+    margin-left: 0.5%;
+}
+
+#summaryText {
+    margin-left: 0.5%;
+    margin-right: 38%;
+}
+
+#contentInside {
+    margin-left: 0.5%;
+    Position: absolute
+}
+
+#form {
+    background-color: #ffdba9;
+    width: 31%;
+    height: 25%;
+    margin-top: 10%;
+    border-radius: 1%;
+    text-align: center;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 2px 13px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 13px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 13px 3px rgba(0, 0, 0, 0.75);
+    padding: 20px;
+">
+}
+
+.alert alert-danger {
+    left: 50%;
+}
+
+.widgetNews {
+    color: yellow;
+}
+
+#tableInfo {
+    overflow-y: auto;
+    margin-left: -5px;
+}
+
+input, select {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.formsummary {
+    width: 100%;
+
+}
+
+.successMessage {
+    color: green;
+}
+
+.errorMessage {
+    color: red;
+}
+
+#homeInfo {
+    height: 566px;
+    overflow-y: auto;
+    width: 90%;
+    margin-left: -5px;
+}
+
+#archiveTitle {
+    color: red;
+}
