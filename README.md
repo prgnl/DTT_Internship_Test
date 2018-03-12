@@ -1,7 +1,9 @@
 # DTT_Internship_Test
 Created by Alex F 
 
-# Instuctions
+# Instructions
  PHP
+ 
  Phalcon PHP
+ 
  MySQL
